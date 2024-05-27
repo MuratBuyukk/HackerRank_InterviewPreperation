@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawing_Book", "Week2\Drawi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower_Breakers", "Week2\Tower_Breakers\Tower_Breakers.csproj", "{A6F879A7-E80D-4B2E-BE29-DF4103689912}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caesar_Cipher", "Week2\Caesar_Cipher\Caesar_Cipher.csproj", "{DAC2E7E2-92E1-4B16-A911-C334D6B204F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{A6F879A7-E80D-4B2E-BE29-DF4103689912}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6F879A7-E80D-4B2E-BE29-DF4103689912}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6F879A7-E80D-4B2E-BE29-DF4103689912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC2E7E2-92E1-4B16-A911-C334D6B204F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC2E7E2-92E1-4B16-A911-C334D6B204F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC2E7E2-92E1-4B16-A911-C334D6B204F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC2E7E2-92E1-4B16-A911-C334D6B204F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -133,6 +139,7 @@ Global
 		{5C69EE70-B459-4EF2-8993-DEEAA81A42A5} = {94BA7FA9-3B98-48A4-9383-9E4658044295}
 		{CE426104-DAAF-43A1-8626-CF899A7A8119} = {94BA7FA9-3B98-48A4-9383-9E4658044295}
 		{A6F879A7-E80D-4B2E-BE29-DF4103689912} = {94BA7FA9-3B98-48A4-9383-9E4658044295}
+		{DAC2E7E2-92E1-4B16-A911-C334D6B204F9} = {94BA7FA9-3B98-48A4-9383-9E4658044295}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F103F285-CEC7-4D76-ADF1-3A74317DB141}
